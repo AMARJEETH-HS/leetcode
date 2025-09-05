@@ -41,6 +41,8 @@ class Solution {
         if(count>0){
             intervals = merge(intervals);
         }
+
+        
 return intervals; 
 }
 }
